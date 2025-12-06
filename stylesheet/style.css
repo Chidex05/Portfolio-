@@ -759,7 +759,8 @@ color: white;}
         height: 30vh;
     }
     .laptops{
-        height: 80px;
+        height
+        : 80px;
     }
 
 
@@ -894,21 +895,26 @@ color: white;}
         height: 200vh;
      }
      #project-intro{
-        font-size: 13px;
+        font-size: 15px;
         width: 90%;
-        margin-top: 3em;
+        margin-top: 10em;
         position: relative;
-        right: 3em;
+
      }
      
      #images{
         display: grid;
         grid-template-columns: 1fr;
-        gap: 1.5em;
+
         padding: 0 1em;
         position: relative;
         right: 0;
+        
      }
+     .image2{
+        margin-bottom: 2em;
+     }
+
      .image-port{
         width: 100%;
         height: auto;
@@ -918,9 +924,10 @@ color: white;}
         padding: 1em;
      }
      #fashion{
-        height: 70vh;
+        height: 95vh;
 
      }
+     
      .our-services{
         margin-left: 3.5em;
         display: grid;
@@ -941,7 +948,7 @@ color: white;}
         text-align: center;
      }
      .contact-page{
-        margin-top: 8em;
+        margin-top: 6em;
         height: 95vh;
      }
      #input_name, #input-email{
@@ -952,7 +959,7 @@ color: white;}
      }
      #input-message{
         width: 55%;
-        height: 18vh;
+        height: 15vh;
         margin: auto;
         /* margin: 3em 0em; */
      }
@@ -962,7 +969,7 @@ color: white;}
      } 
      #contactBTN{
         width: 40%;
-        height: 6vh;
+        height: 5vh;
         margin: auto 4em;
      
      }
@@ -973,12 +980,17 @@ color: white;}
         display: grid;
         grid-template-columns: 1fr;
      }
+     .contact-me{
+        line-height: 35px;
+     }
      
      .nav-bar2{
-        height: auto;
-        padding: 2em 1em;
+        height: 80vh;
+        /* padding: 10em 1em; */
         line-height: 2em;
         width: 100%;
+        position: relative;
+        top: 3em;
 
      }
 
@@ -1049,5 +1061,4 @@ color: white;}
         font-size: 2rem;
         margin-top: 0;
     }
-
 }
