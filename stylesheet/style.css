@@ -911,9 +911,9 @@ color: white;}
         right: 0;
         
      }
-     .image2{
+     /* .image2{
         margin-bottom: 2em;
-     }
+     } */
 
      .image-port{
         width: 100%;
@@ -924,7 +924,7 @@ color: white;}
         padding: 1em;
      }
      #fashion{
-        height: 80vh;
+        height: 75vh;
 
      }
      
@@ -970,7 +970,7 @@ color: white;}
      #contactBTN{
         width: 50%;
         height: 5vh;
-        margin: auto 3em;
+        margin: auto em;
      
      }
      #input-message::placeholder{
@@ -981,9 +981,7 @@ color: white;}
         grid-template-columns: 1fr;
      }
      .contact-me{
-        line-height: 30px;
-        font-size: 20px;
-        font-size: 700;
+        line-height: 10px;
      }
      
      .nav-bar2{
