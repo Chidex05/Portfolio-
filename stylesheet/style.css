@@ -924,7 +924,7 @@ color: white;}
         padding: 1em;
      }
      #fashion{
-        height: 100vh;
+        height: 80vh;
 
      }
      
@@ -981,7 +981,9 @@ color: white;}
         grid-template-columns: 1fr;
      }
      .contact-me{
-        line-height: 35px;
+        line-height: 30px;
+        font-size: 20px;
+        font-size: 700;
      }
      
      .nav-bar2{
