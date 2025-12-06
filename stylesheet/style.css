@@ -924,7 +924,7 @@ color: white;}
         padding: 1em;
      }
      #fashion{
-        height: 95vh;
+        height: 100vh;
 
      }
      
@@ -968,9 +968,9 @@ color: white;}
         bottom:  1em;
      } 
      #contactBTN{
-        width: 40%;
+        width: 50%;
         height: 5vh;
-        margin: auto 4em;
+        margin: auto 3em;
      
      }
      #input-message::placeholder{
